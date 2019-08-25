@@ -1,0 +1,1 @@
+This is the algorithms about supervised learning accomplishing by python
